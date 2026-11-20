@@ -43,6 +43,14 @@ Instead of manually stitching together disconnected ERP spreadsheets with fragil
 | **Purchase Order (PO) Cost Variance & Supplier Creep** | Incremental supplier price hikes sit inside individual purchase receipt lines, eroding product margins weeks before finance spots the variance in monthly accounting closes. | Benchmarks each SKU's **Weighted-Average Cost (WAC)** against its **Latest Recorded Purchase Price**, flagging any unit-cost spike that exceeds your configured variance tolerance. |
 | **Automated Management-by-Exception Triaging** | Operations analysts spend hours filtering CSV dumps across three modules just to build a weekly agenda for purchasing and pricing meetings. | Aggregates negative margins, margin misses, cost spikes, and stock warnings into one prioritized **Exception Report** with severity rankings and recommended corrective actions. |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1G0SzZx8XR0gNJKXH_oA42Yun4bxuKbn8/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## How to Analyze Cin7 CSV Exports in Excel: 4-Step Quick Start Tutorial
