@@ -28,6 +28,19 @@ Raw Cin7 exports enter through dedicated paste-values input sheets (`Import_Sale
 > *Commercial Assurance: Where the downloadable `.xlsx` Excel workbook is offered as a paid license, every purchase is backed by a 30-day, no-questions-asked money-back guarantee.*
 >
 
+
+## Questions, Feedback & Product Updates
+
+This toolkit is designed around practical cin7 csv normalization, sku profitability, inventory valuation and po variance workflows. Feedback helps identify unclear assumptions, missing scenarios, calculation issues, and improvements to the decision process.
+
+- **Questions & workflow fit:** [Ask about Cin7 export columns, SKU normalization, weighted-average versus latest cost, channel fee adjustments, stock-on-hand versus ATP, ABC classification, days of supply, or PO purchase-price variance](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional Cin7 export mappings, inventory exception rules, cost-valuation methods, channel contribution reports, or management dashboard metrics](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the cin7-excel-reporting-template issue form](https://github.com/HyVoid/cin7-excel-reporting-template/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+Do not post raw Cin7 exports, customer/order details, supplier identifiers, private SKU cost lists, inventory valuation reports, credentials, API tokens, or confidential sales data. Use synthetic item IDs, quantities, costs, and transaction examples.
+Use the smallest reproducible example possible. Include the relevant worksheet, input field, date or scenario, and expected versus actual result. Browser demos and spreadsheet previews should be described separately from the downloadable Excel workbook when reporting an environment-specific issue.
+
 ---
 
 ## What It Helps You Track: Cin7 Margin, Inventory Valuation & PO Cost Metrics
